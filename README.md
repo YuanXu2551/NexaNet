@@ -5,7 +5,7 @@ NexaNet offers versatile cloud storage with easy file sharing and online editing
 - User registration
 - User login
 
-##Basic File Operations
+## Basic File Operations
 
 | Operation | File | Folder | Single | Batch | Remarks |
 |-----------|------|--------|--------|-------|---------|
@@ -20,7 +20,7 @@ NexaNet offers versatile cloud storage with easy file sharing and online editing
 | Share     | ✓    | ✓      | ✓      | ✓    | Support for validity period, extraction code |
 | Search    | ✓    | ✓      | ⚪      | ⚪    | Support for ElasticSearch file name fuzzy search |
 
-##Special Features
+## Special Features
 
 | Feature | Description |
 |---------|-------------|
@@ -36,3 +36,7 @@ NexaNet offers versatile cloud storage with easy file sharing and online editing
 | Supports breakpoint continuation | For the same file, when the upload process is interrupted by the network, it can continue to upload from the breakpoint |
 | Real-time progress display | The page displays real-time upload file progress, speed, results, and other information |
 | Storage capacity display | Can display real-time file storage occupancy and total storage capacity |
+
+## 部分功能截图
+<img width="416" alt="791693103067_ pic" src="https://github.com/YuanXu2551/NexaNet/assets/138524143/9529f9a2-9912-4be4-8981-eb56bf489b69">
+<img width="416" alt="801693103075_ pic" src="https://github.com/YuanXu2551/NexaNet/assets/138524143/82bca8c2-abea-45e5-ad77-c41ad61260ff">
