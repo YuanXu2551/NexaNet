@@ -1,10 +1,14 @@
 # NexaNet
 NexaNet offers versatile cloud storage with easy file sharing and online editing. Its batch operations simplify file handling, while a recycle bin guards against unintended deletions. Enhanced by a swift global search, NexaNet stands out for efficient, secure file management.
 
-## User Operations
-- User registration
-- User login
+## Software Architecture
+**Front-end:** Element UI, Vue CLI @ 3, Node.js, Webpack
 
+**Backend:** Spring Boot, MyBatis, JPA, JWT
+
+**Database :** MySQL
+
+**Data structures:** recursive algorithms, tree traversal and insertion ...
 ## Basic File Operations
 
 | Operation | File | Folder | Single | Batch | Remarks |
